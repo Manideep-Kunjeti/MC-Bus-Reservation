@@ -1,8 +1,6 @@
-# bus-reservation
-Bus Reservation 
-This is my first project on Github.
-
-Bus Reservation System using C programming.
+## Bus-reservation
+This is our first ever major project in CPP.<br>
+Me and My friend <a href="https://github.com/Manideep-Kunjeti">Manideep</a> are working on this project.
 
 
 
