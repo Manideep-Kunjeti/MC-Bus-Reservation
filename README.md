@@ -8,7 +8,7 @@ This is our first ever Major Project in CPP
 - [ ] **Buses information**
 - [ ] **Reservation();**
 - [ ] **Cncellation();**
-- [ ] **Change of Seats**
+- [ ] **Change_of_Seats();**
 
 
 ---
