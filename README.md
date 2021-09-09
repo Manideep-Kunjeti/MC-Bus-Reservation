@@ -3,6 +3,13 @@ This is our first ever Major Project in CPP
 
 ## About the Project
 
+## Tasks to be Completed
+- [x] **Signup and Login**
+- [ ] **Buses information**
+- [ ] **Reservation();**
+- [ ] **Cncellation();**
+- [ ] **Change of Seats**
+
 
 ---
 <h1 align=center> Project Admins ❤️ </h1>
