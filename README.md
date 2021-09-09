@@ -1,7 +1,9 @@
+
 ## Bus Reservation
 This is our first ever Major Project in CPP
 
 ## About the Project
+Will add about the project as soon as possible
 
 ## Tasks to be Completed
 - [x] **Signup and Login**
@@ -10,9 +12,9 @@ This is our first ever Major Project in CPP
 - [ ] **Cncellation();**
 - [ ] **Change_of_Seats();**
 ---
-
-<img align="center" alt="Movingbus" width="" src="MCBR.gif" />
- 
+<p align="center">
+  <img alt="Movingbus" height="300" width="300" src="MCBR.gif" />
+</p> 
 
 ---
 <h1 align=center> Project Admins ❤️ </h1>
