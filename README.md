@@ -9,7 +9,10 @@ This is our first ever Major Project in CPP
 - [ ] **Reservation();**
 - [ ] **Cncellation();**
 - [ ] **Change_of_Seats();**
+---
 
+<img align="center" alt="Movingbus" width="" src="MCBR.gif" />
+ 
 
 ---
 <h1 align=center> Project Admins ❤️ </h1>
