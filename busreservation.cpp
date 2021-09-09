@@ -2,6 +2,7 @@
 #include<conio.h>
 #include<fstream>
 #include<windows.h>
+// #include"buses.h"
 
 using namespace std;
 
@@ -11,6 +12,7 @@ class bus
         void signup();
         void login();
         void menu();
+        // void buses();
 };
 
 void bus::signup()
@@ -88,7 +90,7 @@ void bus::login()
         }
         getch();
     }
-}
+}   
 
 void bus::menu(){
     while(1)
@@ -117,8 +119,12 @@ void bus::menu(){
             case 4: 
                
                break;
-            case 5: 
+            case 5:
+               Sleep(40);cout<<"\nT";Sleep(40);cout<<"h";Sleep(40);cout<<"a";Sleep(40);cout<<"n";Sleep(40);cout<<"k";Sleep(40);cout<<" ";Sleep(40);cout<<"y";Sleep(40);cout<<"o";Sleep(40);cout<<"u";Sleep(40);cout<<" ";Sleep(40);cout<<"f";Sleep(40);cout<<"o";Sleep(40);cout<<"r";Sleep(40);cout<<" ";Sleep(40);cout<<"v";Sleep(40);cout<<"i";Sleep(40);cout<<"s";Sleep(40);cout<<"i";Sleep(40);cout<<"t";Sleep(40);cout<<"i";Sleep(40);cout<<"n";Sleep(40);cout<<"g";; 
                exit(0);
+            default:
+                 cout<<"Re-Enter correct choice";Sleep(2500);
+                 break;
         }
     }
     getch();
@@ -160,9 +166,11 @@ int main()
                  b.login();
                  break;
             case 3:
+                 Sleep(40);cout<<"\nT";Sleep(40);cout<<"h";Sleep(40);cout<<"a";Sleep(40);cout<<"n";Sleep(40);cout<<"k";Sleep(40);cout<<" ";Sleep(40);cout<<"y";Sleep(40);cout<<"o";Sleep(40);cout<<"u";Sleep(40);cout<<" ";Sleep(40);cout<<"f";Sleep(40);cout<<"o";Sleep(40);cout<<"r";Sleep(40);cout<<" ";Sleep(40);cout<<"v";Sleep(40);cout<<"i";Sleep(40);cout<<"s";Sleep(40);cout<<"i";Sleep(40);cout<<"t";Sleep(40);cout<<"i";Sleep(40);cout<<"n";Sleep(40);cout<<"g";
                  exit(0);
             default:
-                 cout<<"Re-Enter correct choice";
+                 cout<<"Re-Enter correct choice";Sleep(2500);
+                 break;
              
         }
     }   
